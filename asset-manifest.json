@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-routing/static/css/main.d0114776.css",
+    "main.js": "/ra-routing/static/js/main.4725e62f.js",
+    "index.html": "/ra-routing/index.html",
+    "main.d0114776.css.map": "/ra-routing/static/css/main.d0114776.css.map",
+    "main.4725e62f.js.map": "/ra-routing/static/js/main.4725e62f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0114776.css",
+    "static/js/main.4725e62f.js"
+  ]
+}
